@@ -1,0 +1,32 @@
+.wrapper{
+	width: 80%;
+	background-color: #FEFAEB;
+	margin-right: auto;
+	margin-left: auto;
+}
+header{
+	text-color: #8C3826;
+	background-color: #D2B48C;
+	text-align: center;
+}
+h1{
+	line-height: 200%;
+}
+h2{
+	text-color: #8C3826;
+}
+nav{
+	text-align: center;
+	font-weight: bold;
+}
+body{
+	background-color: #FCEBB6;
+	text-color: #221811;
+	font-family: Arial;
+}
+footer{
+	background-color: #D2B48C;
+	font-size: .60em;
+	text-align: cneter;
+	text-decoration: italic;
+}
